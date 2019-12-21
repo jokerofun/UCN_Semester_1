@@ -1,1 +1,3 @@
+This project was done in collaboration with 3 other classmates of mine. It mostly focuses on System Development, as we are still beginners in Java. The main idea of this project is to improve our teamwork and communication and to experience a real life scenario of the process of developing a program.
 
+Our task was to create a new one or update the existing system of our university's library. The librarian was our customer and we had an interview with her regarding the requirements. Then we started creating UML Diagrams for the use cases in the overall workflow of the system. The project was finished with a written report.
